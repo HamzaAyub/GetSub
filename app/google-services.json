@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "226372392724",
+    "firebase_url": "https://beyfikar.firebaseio.com",
+    "project_id": "beyfikar",
+    "storage_bucket": "beyfikar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226372392724:android:a02e17fd675a4682",
+        "android_client_info": {
+          "package_name": "com.example.hp.beyfikar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226372392724-ag9rka2f6i7m1m77v0lb6qfqihhvg1qg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.beyfikar",
+            "certificate_hash": "392c54188af29c5cde20c1a0326de112107ec180"
+          }
+        },
+        {
+          "client_id": "226372392724-jud60jv1u3rg6hs5dubeumiiklib8tuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoTgsca3BBCfy0b3HioPbWWOCTSMK2vIA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226372392724-jud60jv1u3rg6hs5dubeumiiklib8tuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
